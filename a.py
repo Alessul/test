@@ -10,6 +10,6 @@ def whole(x):
     return int(x)
 
 
-print('s')
+print('dddd')
 
 print(addition(5,3.4))
