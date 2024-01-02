@@ -1,15 +1,17 @@
-
-
-
-def addition(a,b):
+def addition(a, b):
+    """ ahdfddf """
     a = whole(a)
     b = whole(b)
     return a + b
+
 
 def whole(x):
     return int(x)
 
 
-print(     'dddd')
+print("dddd")
 
-print(addition(5,3.4))
+print(addition(5, 3.4))
+
+
+print(int('adfas'))
