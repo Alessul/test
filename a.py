@@ -9,9 +9,9 @@ def whole(x):
     return int(x)
 
 
-print("dddd")
+print()
 
 print(addition(5, 3.4))
 
 
-print(int('a'))
+print(int('aaaaaaa'))
